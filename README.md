@@ -216,3 +216,5 @@ g.play_alpha_beta()
 <img width="626" height="880" alt="image" src="https://github.com/user-attachments/assets/a4907e64-6a75-4712-81bb-b822ccda99b3" />
 
 ### RESULT
+Thus We have successfully implemented Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game
+
